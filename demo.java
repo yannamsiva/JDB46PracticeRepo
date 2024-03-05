@@ -1,6 +1,1 @@
-class Test
-{
-public static void main(String[]args)
-{
-System.out.println(""[DHello Practice");
-}}
+hello focus and do
